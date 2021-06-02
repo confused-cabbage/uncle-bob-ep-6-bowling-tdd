@@ -25,7 +25,12 @@ namespace BowlingTDDNS
             int firstInFrame = 0;
             for (int frame = 0; frame < 10; frame++)
             {
-                if (isSpare(firstInFrame))
+                if (IsStrike(firstInFrame))
+                {
+                    score += 10 + NextTwoBallsInStrike(firstInFrame);
+                    firstInFrame++;
+                }
+                else if (isSpare(firstInFrame))
                 {
                     score += 10 + rolls[firstInFrame + 2];
                     firstInFrame += 2;
@@ -37,6 +42,16 @@ namespace BowlingTDDNS
                 }
             }
             return score;
+        }
+
+        private int NextTwoBallsInStrike(int firstInFrame)
+        {
+            return rolls[firstInFrame + 1] + rolls[firstInFrame + 2];
+        }
+
+        private bool IsStrike(int firstInFrame)
+        {
+            return rolls[firstInFrame] == 10;
         }
 
         private bool isSpare(int firstInFrame)
