@@ -44,8 +44,6 @@ namespace BowlingUnitTest
             Assert.AreEqual(0, g.Score());
         }
 
-
-
         [TestMethod]
         public void AllOnes()
         {
@@ -70,6 +68,13 @@ namespace BowlingUnitTest
             g.Roll(4);
             RollMany(16, 0);
             Assert.AreEqual(24, g.Score());
+        }
+
+        [TestMethod]
+        public void PerfectGame()
+        {
+            RollMany(12, 10);
+            Assert.AreEqual(300, g.Score());
         }
 
     }
