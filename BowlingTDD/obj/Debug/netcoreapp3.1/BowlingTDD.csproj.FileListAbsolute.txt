@@ -1,0 +1,13 @@
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.exe
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.deps.json
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.runtimeconfig.json
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.runtimeconfig.dev.json
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\bin\Debug\netcoreapp3.1\BowlingTDD.pdb
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.csprojAssemblyReference.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.AssemblyInfoInputs.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.AssemblyInfo.cs
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.csproj.CoreCompileInputs.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.pdb
+C:\Users\rgreene\Desktop\Notes\Sprint 05-26-2021\TDD\BowlingTDD\BowlingTDD\obj\Debug\netcoreapp3.1\BowlingTDD.genruntimeconfig.cache
