@@ -36,7 +36,6 @@ namespace BowlingUnitTest
         }
 
         [TestMethod]
-        [Ignore("Ignoring the spare")]
         public void OneSpare()
         {
             g.Roll(5);
